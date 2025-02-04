@@ -14,4 +14,8 @@ Quartz
 
 Prediction
 
-<img width="236" alt="Screenshot_20221201_004200" src="https://user-images.githubusercontent.com/110115511/204887687-852cf547-1e94-4471-98ff-e528a96222f0.png">
+The prediction for this image is:  ['quartz']
+
+The actual label for this image is:  quartz
+
+![image](https://github.com/user-attachments/assets/a64113d0-2bc7-41b7-b13a-6f1fd24fdf40)
