@@ -1,18 +1,19 @@
 # Mineral-Identifier
 
-Biotite 
+# Objective
+This project aims to classify mineral images using advanced feature extraction techniques. The dataset is preprocessed and augmented to improve model performance. Key image processing features include Gabor filters, Sobel edges, and Gaussian filters. 
 
-![0007](https://user-images.githubusercontent.com/110115511/204886915-cb8b2288-1e13-413a-930a-f3fe15b3f2b1.jpg)
+## Workflow
+Data Loading: Images are loaded and preprocessed by resizing to a fixed size.
+Data Augmentation: Includes random flipping, rotation, translation, and combination transformations.
+Feature Extraction: Using techniques like Gabor filters, Sobel edge detection, and Gaussian filters to capture image properties.
+Model Training: Features are fed into a ML model for training.
+Model Evaluation: Predictions are made on the test dataset, and results are evaluated using classification accuracy.
 
-Pyrite
 
-![0011](https://user-images.githubusercontent.com/110115511/204886939-45856fb0-01e1-4264-bcab-71c649563324.jpg)
+## Quartz
 
-Quartz
-
-![0006](https://user-images.githubusercontent.com/110115511/204886974-53be73e9-89ae-4d33-beee-8ecb778697fb.jpg)
-
-Prediction
+<img src="https://user-images.githubusercontent.com/110115511/204886974-53be73e9-89ae-4d33-beee-8ecb778697fb.jpg" width="250">
 
 The prediction for this image is:  ['quartz']
 
