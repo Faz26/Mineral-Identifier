@@ -3,6 +3,17 @@
 # Objective
 This project aims to classify mineral images using advanced feature extraction techniques. The dataset is preprocessed and augmented to improve model performance. Key image processing features include Gabor filters, Sobel edges, and Gaussian filters. 
 
+## Tech Stack
+* Python
+
+* NumPy, pandas, seaborn
+
+* SciPy
+
+* scikit-learn, , PyTorch
+
+* scikit-image, OpenCV
+
 ## Workflow
 Data Loading: Images are loaded and preprocessed by resizing to a fixed size.
 Data Augmentation: Includes random flipping, rotation, translation, and combination transformations.
