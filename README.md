@@ -15,11 +15,11 @@ This project aims to classify mineral images using advanced feature extraction t
 * scikit-image, OpenCV
 
 ## Workflow
-Data Loading: Images are loaded and preprocessed by resizing to a fixed size.
-Data Augmentation: Includes random flipping, rotation, translation, and combination transformations.
-Feature Extraction: Using techniques like Gabor filters, Sobel edge detection, and Gaussian filters to capture image properties.
-Model Training: Features are fed into a ML model for training.
-Model Evaluation: Predictions are made on the test dataset, and results are evaluated using classification accuracy.
+* Data Loading: Images are loaded and preprocessed by resizing to a fixed size.
+* Data Augmentation: Includes random flipping, rotation, translation, and combination transformations.
+* Feature Extraction: Using techniques like Gabor filters, Sobel edge detection, and Gaussian filters to capture image properties.
+* Model Training: Features are fed into a ML model for training.
+* Model Evaluation: Predictions are made on the test dataset, and results are evaluated using classification accuracy.
 
 
 ## Quartz
